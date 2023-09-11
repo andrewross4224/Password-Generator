@@ -19,7 +19,7 @@ Once on the main page press the generate password button then follow the prompts
 
 ## Credits
 
-A genX tutor assisted me in the randomization code on line 43 in the javascript file
+A EdX tutor assisted me in the randomization code on line 43 in the javascript file
 
 ## License
 
